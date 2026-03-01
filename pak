@@ -1,0 +1,3 @@
+cd $HOME/AKMOD_PAKTOOL
+chmod +x *
+./main
